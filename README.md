@@ -6,7 +6,7 @@
 
 <p align="center">
 
-<a href="https://www.youtube.com/watch?v=dAljy0bzXfE"><img title="Click to play teaser video on YouTube"  src="query.png"   width="100%"  height="65%"></a>
+<a href="https://youtu.be/uxgAML1KaT8"><img title="Click to play teaser video on YouTube"  src="query.png"   width="100%"  height="65%"></a>
 
 </p>
   
@@ -35,7 +35,7 @@ We instantiate our proposal in IBM's Hyperlinked Knowledge Graph (HKG), an MMKG 
 
 The goal of this demo is to show HKG features that support extensible query-driven MMKG completion through KES and the Hyperkowledge Query Language (HyQL). The demo uses the [Kaggle’s Best Artworks of All Time dataset](https://www.kaggle.com/ikarus777/best-artworks-of-all-time), two ML models trained over this dataset, and a simple ontology containing painters (Salvador Dalí, Alfred Sisley, etc.), nationalities (Spain, UK, etc.), art movements (Surrealism, Impressionism, Expressionism, etc.), and themes (landscape, portrait, etc.). The images, ML models, and ontology are used to demonstrate how the HKG can be used to infer links from multimodal data at query time while enabling rich semantic queries.
 
-- 1-Minute Teaser: https://www.youtube.com/watch?v=dAljy0bzXfE
+- 1-Minute Teaser: https://youtu.be/uxgAML1KaT8
 - MMKG Representation with HKG and KES: https://ibm.box.com/v/iswc2022keg1
 - MMKG Completion with HyQL and KES: https://ibm.box.com/v/iswc2022keg2
 
