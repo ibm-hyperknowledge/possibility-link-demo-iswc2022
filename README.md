@@ -32,7 +32,7 @@ We instantiate our proposal in IBM's Hyperlinked Knowledge Graph (HKG), an MMKG 
 ## Paper: 
 
 - [Google Drive](https://drive.google.com/file/d/19GR7JZLKf8DWMKoH4n5rBnihyVJRgB_m/view)
-- [CEUR](_Link will be provided after publication_)
+- [CEUR](https://ceur-ws.org/Vol-3254/paper353.pdf)
 
 ## Demonstration
 
